@@ -1,0 +1,8 @@
+springmvc_example\config\WebInitializer.class
+springmvc_example\model\Customer.class
+springmvc_example\service\CustomerService.class
+springmvc_example\controller\CustomerController.class
+springmvc_example\dao\AbstractDao.class
+springmvc_example\service\IGenericService.class
+springmvc_example\config\WebConfig.class
+springmvc_example\dao\CustomerDao.class
